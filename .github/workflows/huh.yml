@@ -21,7 +21,7 @@ jobs:
 
           find: "userbot"
 
-          replace: "ULTRA"
+          replace: "EAGLE"
 
       - name: Create Pull Request
 
@@ -35,6 +35,6 @@ jobs:
 
           repository: .
 
-          commit_user_name: LEGENDXOP
+          commit_user_name: KKNG-USER1
 
           commit_user_email: legendxx08377@gmail.com
